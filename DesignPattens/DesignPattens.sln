@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabric", "Fabric\Fabric.csproj", "{9641D101-7265-4AD4-921C-26036419EB19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{5E3675C5-6638-4981-BB51-1061030F4FAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9641D101-7265-4AD4-921C-26036419EB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9641D101-7265-4AD4-921C-26036419EB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9641D101-7265-4AD4-921C-26036419EB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3675C5-6638-4981-BB51-1061030F4FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3675C5-6638-4981-BB51-1061030F4FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3675C5-6638-4981-BB51-1061030F4FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3675C5-6638-4981-BB51-1061030F4FAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
